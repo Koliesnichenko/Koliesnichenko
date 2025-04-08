@@ -21,9 +21,7 @@ I build backend applications using Python, Django, and related tools.
 
 🔎 Practicing web scraping with Scrapy & Selenium
 
-⚡ Building FastAPI-based services
 
-☁️ Exploring cloud deployment (AWS basics)
 
 🐳 Improving Docker & docker-compose fluency
 
