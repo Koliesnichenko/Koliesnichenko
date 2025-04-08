@@ -15,7 +15,8 @@ I build backend applications using Python, Django, and related tools.
 
 🤖 Telegram Bot Backend – Built with Python, integrates with external APIs, handles dynamic responses, deployed and maintained.
 
-📈 Learning Focus
+📈 Learning Focus:
+
 🐍 Deepening Django + DRF proficiency
 
 🔎 Practicing web scraping with Scrapy & Selenium
