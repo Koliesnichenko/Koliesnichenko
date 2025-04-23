@@ -17,7 +17,7 @@ I build backend applications using Python, Django, and related tools.
 
 📈 Learning Focus:
 
-🐍 Deepening Django + DRF proficiency
+🐍 Deepening backend expertise with Django + DRF and FastAPI, focusing on API architecture, security, and integration with external services.
 
 🔎 Practicing web scraping with Scrapy & Selenium
 
