@@ -9,11 +9,11 @@ I build backend applications using Python, Django, and related tools.
 
 🗞️ [Newspaper Agency](https://github.com/Koliesnichenko/universal-press-agency) - This project is designed to manage an information agency that publishes multiple newspapers across various topics.
 
-🎭 Mystery Theater API – RESTful API for plays, actors, and performances. JWT-auth, nested serializers, filtering, pagination, search.
+🎭 [Mystery Theater API](https://github.com/Koliesnichenko/mystery-theater) – RESTful API for plays, actors, and performances. JWT-auth, nested serializers, filtering, pagination, search.
 
-📚 Library Service – Book catalog system using DRF. Includes token-based auth, admin panel, and auto-generated docs via Swagger.
+📚 [Library Service](https://github.com/Koliesnichenko/django-library-service) – Book catalog system using DRF. Includes token-based auth, admin panel, and auto-generated docs via Swagger.
 
-🤖 Telegram Bot Backend – Built with Python, integrates with external APIs, handles dynamic responses, deployed and maintained.
+🤖 [Telegram Bot Backend](https://github.com/Koliesnichenko/tg-weather-job-bot) – Built with Python, integrates with external APIs, handles dynamic responses, deployed and maintained.
 
 📈 Learning Focus:
 
