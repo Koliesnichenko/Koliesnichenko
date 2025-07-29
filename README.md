@@ -22,25 +22,28 @@ I build robust backend applications using Python, Django, and FastAPI, focusing 
 </p>
 🧩 Projects:
 
-✂️ [Barbershop booking service](https://github.com/Koliesnichenko/barbershop-backend) - (FastAPI) Comprehensive backend handling online bookings, dynamic time slots, real-time notifications via Celery/Redis, and secure admin control.
+✂️ [Barbershop booking service](https://github.com/Koliesnichenko/barbershop-backend) - (FastAPI) A production-ready backend for a real-time online booking platform. Features include complex time slot availability calculations, reliable asynchronous notifications (Celery/Redis), robust user and admin roles, and a secure API for efficient barber and appointment management.
 
-🗞️ [Newspaper Agency](https://github.com/Koliesnichenko/universal-press-agency) - This project is designed to manage an information agency that publishes multiple newspapers across various topics.
+🗞️ [Newspaper Agency](https://github.com/Koliesnichenko/universal-press-agency) - (Django Full-stack) A comprehensive full-stack web application for managing a multi-topic newspaper agency. Implements CRUD operations, advanced filtering, and a user-friendly interface for content and publication management.
 
-🎭 [Mystery Theater API](https://github.com/Koliesnichenko/mystery-theater) – RESTful API for plays, actors, and performances. JWT-auth, nested serializers, filtering, pagination, search.
+🎭 [Mystery Theater API](https://github.com/Koliesnichenko/mystery-theater) – (Django Rest Framework) A robust RESTful API for an online cinema/theater booking system. Features include secure JWT authentication, efficient data retrieval with nested serializers, filtering, pagination, and full-text search capabilities for plays, actors, and performances.
 
-📚 [Library Service](https://github.com/Koliesnichenko/django-library-service) – Book catalog system using DRF. Includes token-based auth, admin panel, and auto-generated docs via Swagger.
+📚 [Library Service](https://github.com/Koliesnichenko/django-library-service) –  (Django Rest Framework) A scalable book catalog and management system. Implements secure token-based authentication, an intuitive admin panel, integrated payment processing (Stripe), and automated documentation via Swagger, with notifications via Telegram bot.
 
-🤖 [Telegram Bot Backend](https://github.com/Koliesnichenko/tg-weather-job-bot) – Built with Python, integrates with external APIs, handles dynamic responses, deployed and maintained.
+🤖 [Telegram Bot Backend](https://github.com/Koliesnichenko/tg-weather-job-bot) – A versatile Python backend for a Telegram bot, demonstrating integration with multiple external APIs (e.g., weather, job search), handling complex dynamic responses, and featuring successful deployment and ongoing maintenance.
 
 📈 Learning Focus:
 
 🐍 Deepening backend expertise with Django + DRF and FastAPI, focusing on API architecture, security, and integration with external services.
 
-🔎 Practicing web scraping with Scrapy & Selenium
+✅ Mastering **unit and integration testing** with Pytest for building reliable and maintainable applications.
 
+🔎 Practicing **web scraping with Scrapy & Selenium** for data acquisition and automation tasks.
 
+🐳 Improving **Docker & docker-compose fluency** for efficient deployment and environment management.
 
-🐳 Improving Docker & docker-compose fluency
+☁️ Exploring **cloud deployment strategies** (e.g., AWS, DigitalOcean) for scalable application hosting.
+
 
 🌟 Motto
 “Discipline beats motivation. Daily consistency is my strategy.”
